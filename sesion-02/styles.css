@@ -1,0 +1,98 @@
+a {
+    text-decoration: none;
+}
+aside {
+    text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    width: 100%;
+}
+footer {
+    margin: 5px 20px;
+}
+footer * {
+    display: inline-block;
+    vertical-align: middle;
+    height: 100%;
+    line-height: 45px;
+}
+h1, h2 {
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    color: #025157;
+}
+li{
+    display: inline;
+}
+main {
+    margin: 15px;
+    text-align: center;
+}
+.header {
+    font-size: 0;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+   
+}
+.header * {
+    display: inline-block;
+    font-size: 16px;
+    vertical-align: middle;
+    height: 100%;
+    line-height: 45px;
+}
+.logo {
+    width: 15%;
+    height: 100%;
+}
+.material-icons {
+    color: #3427ab;
+    margin-left: 15px;
+}
+.navbar {
+    width: 70% !important;
+    height: 45px;
+    margin: 0px 25px;
+    text-align: center;
+    font-family: sans-serif;
+    display: inline;
+    font-weight: 500;
+}
+.navbar a {
+    color: #025157;
+}
+.navbar li {
+    margin: 0px 15px;
+    color: #025157;
+} 
+.actions {
+    width: 15%;
+    text-align: right;
+    font-size: 14px;
+    font-weight: 600;
+}
+#enlaces {
+    text-align: left;
+    width: 38%;
+}
+#derechos {
+    text-align: right;
+    width: 50%;
+}
+#sign {
+    color: #67b54b;
+    margin: 0px 10px;
+}
+#start {
+    color: white;
+    background-color: #67b54b;
+    margin: 0px 10px;
+    padding: 12px 14px;
+    border-radius: 5px;
+    border: 0;
+}
